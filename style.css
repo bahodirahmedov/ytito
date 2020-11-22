@@ -1,0 +1,14 @@
+.total-div{
+  min-height: 300vh;
+  background-image: url("img/explosion.png" ),
+  url("img/plane.png"),
+  url("img/les_derevya_trava_tuman_118451_1366x768.jpg");
+  background-position: 85% 42%,
+  84% 45%, right center;
+  background-size:  155px, 200px, contain ;
+  background-repeat:no-repeat ;
+  background-attachment: scroll, scroll, fixed;
+}
+body{
+  height: 1200px;
+}
